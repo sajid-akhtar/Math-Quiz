@@ -7,8 +7,8 @@ DESCRIPTION = 'A simple math quiz project'
 setup(
     name="mathquiz",
     version=VERSION,
-    author="Sajid Akhtar (sajid-akhtar)",
-    author_email="<sajid.akhtar9823@gmail.com>",
+    author="Prateek Nishant (PrateekNish20)",
+    author_email="<prateeknishant6@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
