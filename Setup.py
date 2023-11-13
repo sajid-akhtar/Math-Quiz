@@ -7,13 +7,13 @@ DESCRIPTION = 'A simple math quiz project'
 setup(
     name="mathquiz",
     version=VERSION,
-    author="Prateek Nishant (PrateekNish20)",
-    author_email="<prateeknishant6@gmail.com>",
+    author="Sajid Akhtar",
+    author_email="<sajid.akhtar9823@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
     keywords=['python', 'math', 'math-quiz',
-              'assignment', 'fau-erlangan', 'ml'],
+              'assignment', 'ml'],
     classifiers=[
         "Development Status :: 1 - Stable",
         "Intended Audience :: Developers",
